@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousProgramming", "AsynchronousProgramming\AsynchronousProgramming.csproj", "{0037BB09-3259-482F-94E2-00249BA47A8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousProgrammingTests", "AsynchronousProgrammingTests\AsynchronousProgrammingTests.csproj", "{D1D60C54-BBEE-457E-943D-11BE2F2EA3DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0037BB09-3259-482F-94E2-00249BA47A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0037BB09-3259-482F-94E2-00249BA47A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0037BB09-3259-482F-94E2-00249BA47A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0037BB09-3259-482F-94E2-00249BA47A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D60C54-BBEE-457E-943D-11BE2F2EA3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D60C54-BBEE-457E-943D-11BE2F2EA3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D60C54-BBEE-457E-943D-11BE2F2EA3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D60C54-BBEE-457E-943D-11BE2F2EA3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
